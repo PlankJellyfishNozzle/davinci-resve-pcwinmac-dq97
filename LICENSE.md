@@ -1,4 +1,4 @@
-# 
+# Ultimato DaVinci Resolve ferramentas para Mac OS | Código aberto DaVinci Resolve ferramentas para PC Windows. Com estabilização de vídeo e camadas 3D — otimizado para máximo desempenho em cada plataforma.
 
 
 
